@@ -52,5 +52,5 @@ The `.gitignore` is pulled from [here](https://raw.githubusercontent.com/davidjn
 
 ## License
 
-This project is provided under the [MIT License](https://opensource.org/licenses/MIT). For more details, see the [LICENSE](LICENSE) file.
+This project is provided under the [MIT License](https://opensource.org/licenses/MIT).
 
