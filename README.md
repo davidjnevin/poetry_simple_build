@@ -11,7 +11,7 @@ Before running the script, make sure you have Poetry installed on your system. I
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git .
+git clone https://github.com/davidjnevin/poetry_simple_build.git .
 ```
 
 2. **Modify the `poetry_build.sh` script:**
