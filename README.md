@@ -27,7 +27,6 @@ To find the path to your Python interpreter, you can run the following command i
 which python3
 ```
 
-
 Alternatively, you can use `which python` if you're using a different Python version.
 
 3. **Grant execution permission:**
@@ -47,8 +46,9 @@ Execute the `poetry_build.sh` script by running:
 
 ```
 
-
 The script will create a new Python project using Poetry and set up the initial project structure and files.
+The `.gitignore` is pulled from [here](https://raw.githubusercontent.com/davidjnevin/python.gitignore/main/python-gitignore)
+
 
 ## License
 
